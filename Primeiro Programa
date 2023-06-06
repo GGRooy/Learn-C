@@ -1,0 +1,9 @@
+//esse repositório se trata de uma revisão e com o foco de retirar lacunas em meu aprendizado, que, no atual momento, estão me impossibilitando de progredir
+
+#include <stdio.h>
+
+int main (){
+ 
+  printf("Bom dia!\n);
+   return 0;
+ }
